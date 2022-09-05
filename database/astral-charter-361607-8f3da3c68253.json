@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "astral-charter-361607",
+  "private_key_id": "8f3da3c6825372192069104e315a563f6da66a50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGYXJzBeOS4WFY\nusWCr8VuRuC8gz7wuD3VLHTTjqkc29Zz1Y0wuBfAx1a2q+/HPFa3f+E0g1MEd4Mo\nd6TQnjFUyOIVgSItLAzv7Op71b7SnFTFd+NPlftvS+FyVJ5PiWtbsFZ7GuEIHhtp\nDufVPiGI2+6uq1DNKJ2RWsdFKeIfNcCEmGrOADc0xfYntGQIJ2bivDP5t3m3KG0v\nMwoWe3eFwgPz3Hw9jHZBT7LYC0jkgH4lWJyvQSo4YAWRBokzDm3dxjsRm8zDUEnC\nTlMi+lbgDMxOpiWlk7t3ZeYtUBnCMI+FnFiuorJ7E/v/+rUmB7T/hf2K0WDsWDu7\n0lVmIGmJAgMBAAECggEAGFGl2BfmuADNEDWFNOobR9OEhVeJhbTwT4utnqmkbZc9\niOGq90f6EXXeWXJmaIQrFT+l+ewHZ0rHV1SjbbeW0I/3ty8nY2Y9B8SBUkD3rZXg\nhnyV7xGxywkAUCWzaoisEodhcqHu6DHYpl5faTK+papgbiUuOJg8CK+aMg5aW/zh\nOzYj2IclV8fKS0VIRRpoywzVAz0kUywSIsRNN6WOwgaQjmdOOtWn+16fMjdV8DLd\n6tLTLBuqDy4hMpTFDqKpAYH6mRbQi5eWN1hezEeYkQkV5tpA31mzifAPuFC4X8zL\nPwIqqcaEWnw4FgdXjtW5LelDgNQC/gu0GxrL7LziCQKBgQD+1oMKMOKGCVkbr+EP\njjJ1aTHAjwJ0mwEr0XgVGpCYJtW8aGDHLHMjfWEP0RYPvxoAys0YBGiGylek6gHK\nOp1mMjbZcMvCKPsXSCwaiH93VBbpJNSeiDcwT6AJt5OZfJEkQh6RdxLazo1K8DcC\n/TjHjoo3Ug7A5O3QZxiAhPmQ6wKBgQDHSQdzZH4un3CcbQFLGI6Y+OI0Mfu1oTUK\n+n11drLny9uQWz6idBLso3mMYGqrz0bQBTAheZ7k+u6OIeOunGz2dTtBaTIh2d3W\nrWq9hZBzUIMlH//NzY3nw+wLvCSczlkn+NHInvTprWZtLqCod4lmB05zHbDZs7eX\nJp74AlQyWwKBgQDuqXVl2Ox8/Uo/vNL5X4HwJcmbfhOdowFQyUc99HgQluY7IkHo\npr9aMHTzfCy+KIowzb2QTaia++tjHmj4vTZl3Icz0whw2TJ21ne/jbBa0Bz40i5y\nHj4Zd6j5EL0h1OCVZXr9XtgApcr7sMbEfORtOBhHwQjiLERwle0DiAW2awKBgDWQ\nVHdYiG3hnvP8fH+BvzowkyQyVxRvmwEzaKs810NkUMSRMdmaV0fRfKcVdzZsxPy+\nmDw3I1UqeRos07SoCMWJpv6i1r2wgGbmP61nC/diqY0995SKblzgFT7mN/UJpX8P\n6tsAlpWEbOZlxPri/kQ1LInWbiVln6/5ynqgrZ7HAoGBANfbDTBDdp5MybZ4iJsf\nYUbPmURA7T5XPjtoR0HPHPcmSQmZHqbfbgSbfRSWT2vzwj0vdO0B1FRUd0cnp+a0\nZ/oPZKePGy7e87MXgvkbhgj40ReU3t36cxiPGBphHM7wzoeMl+6tnd9ubwWVEWFi\nl8ZuDkfgfxMZyfB62g1dDE4a\n-----END PRIVATE KEY-----\n",
+  "client_email": "pyhton-service-account@astral-charter-361607.iam.gserviceaccount.com",
+  "client_id": "117703384519818628934",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pyhton-service-account%40astral-charter-361607.iam.gserviceaccount.com"
+}
